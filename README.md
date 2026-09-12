@@ -2,9 +2,9 @@
 
 ### AI/ML Student | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
 
-Building intelligent systems that combine AI, machine learning, computer vision, and software to solve real-world problems.
+[LinkedIn](https://www.linkedin.com/in/manobhiramgandharapu/) • [GitHub](https://github.com/AbhiGandharapu) • [Instagram](https://www.instagram.com/mannn.__.__/)
 
-[LinkedIn] • [GitHub]
+> Building intelligent systems at the intersection of AI, machine learning, computer vision, NLP, and real-world applications.
 
 ---
 
@@ -12,15 +12,19 @@ Building intelligent systems that combine AI, machine learning, computer vision,
 
 I'm a B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore, graduating in 2027.
 
-My interests span Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Large Language Models, RAG, AI Agents, Robotics, and Cybersecurity.
+I enjoy designing and developing practical AI systems that connect machine learning with real-world problems. My work spans machine learning, deep learning, natural language processing, computer vision, generative AI, and intelligent systems.
 
-I enjoy working on practical projects that combine intelligent models with real-world applications — from financial forecasting and NLP-based PII anonymization to AI-powered applications, weather intelligence, and assistive robotics.
+I'm particularly interested in understanding how AI models can be integrated into useful applications rather than existing only as standalone models.
 
-🔭 Currently exploring Generative AI, LLMs, RAG pipelines, and AI Agents  
-🤖 Interested in intelligent systems, computer vision, and robotics  
-🧠 Building projects across AI/ML, NLP, computer vision, and data-driven applications  
-🎓 B.Tech Artificial Intelligence — Amrita Vishwa Vidyapeetham, Coimbatore  
+🔭 Exploring AI/ML applications across NLP, Computer Vision, Generative AI, and Robotics
+
+🤖 Interested in LLMs, RAG pipelines, AI Agents, and intelligent autonomous systems
+
+💻 Building projects that combine AI, software development, data, and real-world systems
+
 📍 Coimbatore, Tamil Nadu, India
+
+🎓 B.Tech Artificial Intelligence — Amrita Vishwa Vidyapeetham | 2027
 
 ---
 
@@ -30,109 +34,75 @@ I enjoy working on practical projects that combine intelligent models with real-
 
 Time-series based personal finance analysis and expense prediction system.
 
-- Expense tracking and visualization
-- Time-series analysis of spending patterns
-- ARIMA and LSTM-based forecasting
-- Full-stack application with frontend and backend components
+Built around financial data analysis and machine learning-based expense forecasting.
 
-`Python` `Time Series` `ARIMA` `LSTM` `Machine Learning` `JavaScript`
+**Focus:** Time Series Analysis • Machine Learning • Expense Prediction
+
+[View Project →](https://github.com/AbhiGandharapu/personal-finance-tracker)
 
 ---
 
 ### 🔐 PII Anonymizer NER
 
-Hybrid NLP system for detecting and anonymizing personally identifiable information.
+Hybrid NLP pipeline for detecting and anonymizing personally identifiable information.
 
-- Named Entity Recognition for sensitive information
-- Neural NLP models for entity detection
-- Rule-based pattern matching for structured PII
-- Automated anonymization of sensitive text
+Combines named entity recognition with rule-based pattern matching to identify sensitive information and anonymize it.
 
-`Python` `NLP` `PyTorch` `NER` `Transformers` `Regex`
+**Focus:** NLP • NER • Deep Learning • PII Detection • Text Anonymization
+
+[View Project →](https://github.com/AbhiGandharapu/pii-anonymizer-ner)
 
 ---
 
-### 🧘 Mental Wellness
+### 🧘 Mental Wellness AI
 
-AI-powered mental wellness companion designed for competitive exam students.
+AI-powered student wellness companion designed to analyze mood and stress patterns from user input.
 
-- AI-based mood and stress analysis
-- Journal-based text analysis
-- Personalized coping suggestions
-- Mood tracking and visualization
-- Conversational AI assistance
+The system combines AI-powered text analysis with a web application to provide personalized wellness-oriented interactions.
 
-`JavaScript` `React` `Node.js` `NLP` `LLMs` `AI`
+**Focus:** Generative AI • NLP • LLMs • Web Applications
+
+[View Project →](https://github.com/AbhiGandharapu/mental-wellness)
 
 ---
 
 ### 🌤️ Weather Analyser
 
-AI-powered weather intelligence application that transforms weather data into useful contextual insights.
+AI-powered weather intelligence application providing weather information, forecasts, visualizations, and contextual assistance.
 
-- Real-time weather information
-- Forecast visualization
-- AI-powered weather assistance
-- Contextual recommendations
-- Interactive weather dashboard
+Designed to transform raw weather information into more useful and understandable insights.
 
-`JavaScript` `AI` `Gemini` `Groq` `APIs`
+**Focus:** Generative AI • APIs • Data Visualization • Intelligent Applications
+
+[View Project →](https://github.com/AbhiGandharapu/weather-analyser)
 
 ---
 
 ### 🏠 Census Data Analysis
 
-AI-assisted census survey and socioeconomic data analysis system.
+AI-assisted census survey and data analysis system for collecting, managing, and querying socioeconomic information.
 
-- Digital survey data collection
-- Socioeconomic data analysis
-- Interactive dashboard
-- Natural-language database querying
-- AI-assisted data interaction
+Includes data collection, analytics, and natural-language interaction with structured data.
 
-`Python` `FastAPI` `SQL` `SQLite` `AI`
+**Focus:** AI • Data Analytics • SQL • Natural Language Querying
+
+[View Project →](https://github.com/AbhiGandharapu/census-data-analysis)
 
 ---
 
 ### 🤖 Smart Assistive Navigation Robot
 
-Assistive navigation robot combining sensors, embedded systems, and intelligent obstacle avoidance.
+Raspberry Pi-based assistive navigation robot using ultrasonic sensing, obstacle detection, motor control, and Bluetooth-based alerts.
 
-- Ultrasonic-based obstacle detection
-- Servo-controlled environment scanning
-- Automatic obstacle avoidance
-- PWM-based motor control
-- Bluetooth-based audio/alert guidance
+The system combines embedded hardware with autonomous navigation logic for assistive applications.
 
-`Python` `Raspberry Pi` `Computer Vision` `Robotics` `Embedded Systems`
+**Focus:** Robotics • Embedded Systems • Sensor Fusion • Automation
+
+[View Project →](https://github.com/AbhiGandharapu/smart-navigation-robot)
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-`Python` `C++` `Java` `SQL` `JavaScript` `HTML` `CSS`
-
-### AI & Machine Learning
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV`
-
-### Generative AI
-
-`LLMs` `Generative AI` `RAG` `AI Agents` `Prompt Engineering` `Gemini` `Groq`
-
-### Data & Big Data
-
-`Pandas` `NumPy` `Matplotlib` `Time Series Analysis` `Hadoop` `Apache Spark`
-
-### Development & Tools
-
-`Git` `GitHub` `Docker` `FastAPI` `React` `Node.js`
-
----
-
-## 🎯 Areas of Interest
+## 🧠 Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -140,38 +110,64 @@ Assistive navigation robot combining sensors, embedded systems, and intelligent 
 - Computer Vision
 - Natural Language Processing
 - Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Robotics
 - Cybersecurity
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agent architectures
-- Computer Vision
-- Deep Learning
-- Intelligent autonomous systems
+### Programming
+Python • C++ • Java • SQL • JavaScript • HTML • CSS
+
+### AI & Machine Learning
+Machine Learning • Deep Learning • NLP • Computer Vision
+
+### Frameworks & Libraries
+TensorFlow • PyTorch • Scikit-learn • OpenCV
+
+### Data & Big Data
+NumPy • Pandas • Matplotlib • Hadoop • Apache Spark
+
+### Development & Tools
+Git • GitHub • Docker
+
+### Cloud
+Microsoft Azure • AWS
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Activity
 
-**Amrita Vishwa Vidyapeetham, Coimbatore**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github)
 
-B.Tech in Artificial Intelligence  
-Graduation: 2027  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true)
+
+---
+
+## 🎯 Currently Exploring
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and tool-using systems
+- Computer Vision
+- NLP and intelligent text processing
+- Robotics and intelligent autonomous systems
+- AI applications for real-world problems
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:**https://www.linkedin.com/in/manobhiramgandharapu/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manobhiram_Gandharapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manobhiramgandharapu/)
 
-**GitHub:** https://github.com/AbhiGandharapu
+[![GitHub](https://img.shields.io/badge/GitHub-AbhiGandharapu-black?style=for-the-badge&logo=github)](https://github.com/AbhiGandharapu)
 
-If you're interested in AI, machine learning, intelligent systems, or building real-world applications, feel free to connect.
+[![Instagram](https://img.shields.io/badge/Instagram-mannn.__.__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mannn.__.__/)
+
+---
+
+### Building. Learning. Experimenting with AI. 🚀
