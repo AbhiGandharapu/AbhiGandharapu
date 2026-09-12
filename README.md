@@ -1,10 +1,12 @@
-# Gandharapu Manobhiram
+#                                                                                   Gandharapu Manobhiram
 
-### AI/ML Student | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
+### AI/ML Undergraduate | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
 
-[LinkedIn](https://www.linkedin.com/in/manobhiramgandharapu/) • [GitHub](https://github.com/AbhiGandharapu) • [Instagram](https://www.instagram.com/mannn.__.__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manobhiram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manobhiramgandharapu/)
+[![Email](https://img.shields.io/badge/Email-manobhiramgandharapu%40gmail.com-red?style=flat&logo=gmail)](mailto:manobhiramgandharapu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AbhiGandharapu-black?style=flat&logo=github)](https://github.com/AbhiGandharapu)
 
-> Building intelligent systems at the intersection of AI, machine learning, computer vision, NLP, and real-world applications.
+Building intelligent systems that combine AI, machine learning, computer vision, and modern generative AI to solve practical real-world problems.
 
 ---
 
@@ -12,162 +14,143 @@
 
 I'm a B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore, graduating in 2027.
 
-I enjoy designing and developing practical AI systems that connect machine learning with real-world problems. My work spans machine learning, deep learning, natural language processing, computer vision, generative AI, and intelligent systems.
+I enjoy building practical AI/ML applications across **computer vision, natural language processing, generative AI, LLMs, and intelligent systems**. My projects range from financial forecasting and NLP-based PII anonymization to AI-powered applications, weather intelligence, and robotics.
 
-I'm particularly interested in understanding how AI models can be integrated into useful applications rather than existing only as standalone models.
+Currently focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Generative AI, LLM applications, RAG, AI Agents, and Robotics**.
 
-🔭 Exploring AI/ML applications across NLP, Computer Vision, Generative AI, and Robotics
-
-🤖 Interested in LLMs, RAG pipelines, AI Agents, and intelligent autonomous systems
-
-💻 Building projects that combine AI, software development, data, and real-world systems
-
-📍 Coimbatore, Tamil Nadu, India
-
-🎓 B.Tech Artificial Intelligence — Amrita Vishwa Vidyapeetham | 2027
+- 🎓 B.Tech Artificial Intelligence — Amrita Vishwa Vidyapeetham
+- 📚 Currently in Semester 7
+- 🤖 Interested in AI/ML, Computer Vision, GenAI, LLMs, RAG, AI Agents & Robotics
+- 💻 Building practical AI-driven applications and intelligent systems
+- 📍 Coimbatore, Tamil Nadu, India
+- 🚀 Open to AI/ML internships, projects, and software opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Finance Tracker
+### 💰 [Personal Finance Tracker](https://github.com/AbhiGandharapu/personal-finance-tracker)
 
 Time-series based personal finance analysis and expense prediction system.
 
-Built around financial data analysis and machine learning-based expense forecasting.
+- 📊 Analyzes personal spending patterns and historical expenses
+- 📈 Applies time-series forecasting techniques for expense prediction
+- 🤖 Combines machine learning with financial data analysis
+- 🖥️ Includes frontend and backend components for an end-to-end application
 
-**Focus:** Time Series Analysis • Machine Learning • Expense Prediction
-
-[View Project →](https://github.com/AbhiGandharapu/personal-finance-tracker)
-
----
-
-### 🔐 PII Anonymizer NER
-
-Hybrid NLP pipeline for detecting and anonymizing personally identifiable information.
-
-Combines named entity recognition with rule-based pattern matching to identify sensitive information and anonymize it.
-
-**Focus:** NLP • NER • Deep Learning • PII Detection • Text Anonymization
-
-[View Project →](https://github.com/AbhiGandharapu/pii-anonymizer-ner)
+`Python` `Time Series Analysis` `Machine Learning` `LSTM` `ARIMA` `Pandas`
 
 ---
 
-### 🧘 Mental Wellness AI
+### 🔐 [PII Anonymizer NER](https://github.com/AbhiGandharapu/pii-anonymizer-ner)
 
-AI-powered student wellness companion designed to analyze mood and stress patterns from user input.
+Hybrid NLP system for detecting and anonymizing personally identifiable information.
 
-The system combines AI-powered text analysis with a web application to provide personalized wellness-oriented interactions.
+- 🧠 Uses neural NLP models for Named Entity Recognition
+- 🔎 Combines machine learning with rule-based pattern matching
+- 🛡️ Detects sensitive information such as structured PII
+- 🔄 Provides automated anonymization of detected entities
 
-**Focus:** Generative AI • NLP • LLMs • Web Applications
-
-[View Project →](https://github.com/AbhiGandharapu/mental-wellness)
-
----
-
-### 🌤️ Weather Analyser
-
-AI-powered weather intelligence application providing weather information, forecasts, visualizations, and contextual assistance.
-
-Designed to transform raw weather information into more useful and understandable insights.
-
-**Focus:** Generative AI • APIs • Data Visualization • Intelligent Applications
-
-[View Project →](https://github.com/AbhiGandharapu/weather-analyser)
+`Python` `NLP` `NER` `PyTorch` `Transformers` `Regex`
 
 ---
 
-### 🏠 Census Data Analysis
+### 🧘 [Mental Wellness](https://github.com/AbhiGandharapu/mental-wellness)
 
-AI-assisted census survey and data analysis system for collecting, managing, and querying socioeconomic information.
+AI-powered student wellness companion designed to analyze mood and stress patterns.
 
-Includes data collection, analytics, and natural-language interaction with structured data.
+- 🧠 AI-based analysis of journal and user input
+- 📊 Mood tracking and trend visualization
+- 💬 Conversational AI support
+- 🎯 Designed around the needs of competitive-exam students
 
-**Focus:** AI • Data Analytics • SQL • Natural Language Querying
-
-[View Project →](https://github.com/AbhiGandharapu/census-data-analysis)
-
----
-
-### 🤖 Smart Assistive Navigation Robot
-
-Raspberry Pi-based assistive navigation robot using ultrasonic sensing, obstacle detection, motor control, and Bluetooth-based alerts.
-
-The system combines embedded hardware with autonomous navigation logic for assistive applications.
-
-**Focus:** Robotics • Embedded Systems • Sensor Fusion • Automation
-
-[View Project →](https://github.com/AbhiGandharapu/smart-navigation-robot)
+`JavaScript` `React` `Node.js` `Express` `Groq` `Llama`
 
 ---
 
-## 🧠 Areas of Interest
+### 🌤️ [Weather Analyser](https://github.com/AbhiGandharapu/weather-analyser)
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Robotics
-- Cybersecurity
+AI-powered weather intelligence application combining real-time weather information with intelligent recommendations.
+
+- 🌦️ Real-time weather information and forecasts
+- 🤖 AI-powered contextual weather insights
+- 📊 Weather visualization and analysis
+- 💬 Conversational interaction with weather information
+
+`JavaScript` `Gemini` `Groq` `HTML` `CSS`
 
 ---
 
-## 🛠️ Technical Skills
+### 🏠 [Census Data Analysis](https://github.com/AbhiGandharapu/census-data-analysis)
 
-### Programming
-Python • C++ • Java • SQL • JavaScript • HTML • CSS
+AI-assisted socioeconomic survey and data analysis platform.
+
+- 📋 Digital census and socioeconomic data collection
+- 📊 Data analysis and administrative dashboard
+- 🗃️ Structured database management
+- 💬 Natural-language interaction with collected data
+
+`Python` `FastAPI` `SQLite` `JavaScript` `AI`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Python` `C++` `Java` `SQL` `JavaScript` `HTML` `CSS`
 
 ### AI & Machine Learning
-Machine Learning • Deep Learning • NLP • Computer Vision
+`Machine Learning` `Deep Learning` `Scikit-learn` `TensorFlow` `PyTorch`
 
-### Frameworks & Libraries
-TensorFlow • PyTorch • Scikit-learn • OpenCV
+### AI Specializations
+`NLP` `Named Entity Recognition` `Computer Vision` `Generative AI` `LLMs` `RAG` `AI Agents`
+
+### Computer Vision
+`OpenCV` `Image Processing`
 
 ### Data & Big Data
-NumPy • Pandas • Matplotlib • Hadoop • Apache Spark
+`Pandas` `NumPy` `Hadoop` `Apache Spark`
 
 ### Development & Tools
-Git • GitHub • Docker
+`Git` `GitHub` `Docker`
 
 ### Cloud
-Microsoft Azure • AWS
+`Azure` `AWS`
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Areas of Interest
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github)
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- ✨ Generative AI
+- 🧠 Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧩 AI Agents & Intelligent Systems
+- 🤖 Robotics & Embedded AI
+- 🔐 AI for Cybersecurity
+
+---
+
+## 📊 GitHub Stats
+
+![Manobhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true)
 
 ---
 
-## 🎯 Currently Exploring
-
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and tool-using systems
-- Computer Vision
-- NLP and intelligent text processing
-- Robotics and intelligent autonomous systems
-- AI applications for real-world problems
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manobhiram_Gandharapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manobhiramgandharapu/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-AbhiGandharapu-black?style=for-the-badge&logo=github)](https://github.com/AbhiGandharapu)
-
-[![Instagram](https://img.shields.io/badge/Instagram-mannn.__.__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mannn.__.__/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manobhiramgandharapu/)
+- 📧 [Email](mailto:manobhiramgandharapu@gmail.com)
+- 🐙 [GitHub](https://github.com/AbhiGandharapu)
+- 📸 [Instagram](https://www.instagram.com/mannn.__.__/)
 
 ---
 
-### Building. Learning. Experimenting with AI. 🚀
+## 🚀 Open to Opportunities
+
+I am currently **open to AI/ML internships, software development opportunities, collaborative projects, and entry-level opportunities** where I can apply my skills, learn from experienced teams, and contribute to building practical intelligent systems.
+
+**If you're working on an interesting problem in AI, ML, Computer Vision, Generative AI, or intelligent systems, let's connect.**
