@@ -160,7 +160,6 @@ Graduation: **2027**
 
 Open to **AI/ML internships, graduate roles, and collaborative opportunities** in AI, Machine Learning, Computer Vision, Generative AI, NLP, and Robotics.
 
-📧 **manobhiramgandharapu@gmail.com**
 I'm looking forward to working with teams where I can **learn, contribute, and build practical intelligent systems**.
 
 If you have an opportunity, project, or collaboration in these areas, feel free to reach out.
