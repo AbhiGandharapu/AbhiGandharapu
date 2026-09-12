@@ -165,28 +165,6 @@ The system combines a survey interface, database management, analytics, and AI-a
 
 ---
 
-## 📚 Currently Learning
-
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agent architectures
-- Computer Vision
-- Deep Learning
-- NLP and Transformer-based models
-- Intelligent robotics systems
-
----
-
-## 🎓 Education
-
-**Amrita Vishwa Vidyapeetham, Coimbatore**
-
-**B.Tech — Artificial Intelligence**  
-Expected Graduation: **2027**  
-Current: **Semester 7**
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -213,6 +191,5 @@ Interested in **AI/ML, Computer Vision, Generative AI, NLP, RAG, AI Agents, and 
 
 ### Thanks for visiting! 👋
 
-*Building • Learning • Experimenting with AI*
 
 </div>
