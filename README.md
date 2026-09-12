@@ -172,6 +172,6 @@ Graduation: 2027
 
 **LinkedIn:**https://www.linkedin.com/in/manobhiramgandharapu/
 
-**GitHub:** AbhiGandharapu
+**GitHub:** https://github.com/AbhiGandharapu
 
 If you're interested in AI, machine learning, intelligent systems, or building real-world applications, feel free to connect.
