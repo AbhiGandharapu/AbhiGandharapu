@@ -184,5 +184,3 @@ If you have an opportunity, project, or collaboration in these areas, feel free 
 📧 **manobhiramgandharapu@gmail.com**
 
 ---
-
-⭐ *Building, learning, and applying AI to real-world problems.*
