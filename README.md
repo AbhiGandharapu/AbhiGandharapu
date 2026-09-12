@@ -164,22 +164,13 @@ Assistive navigation robot combining sensors, embedded systems, and intelligent 
 **Amrita Vishwa Vidyapeetham, Coimbatore**
 
 B.Tech in Artificial Intelligence  
-Expected Graduation: 2027  
-Semester 7
-
----
-
-## 📊 GitHub Stats
-
-![Manobhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&theme=tokyonight&hide_border=true)
+Graduation: 2027  
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:** Add your LinkedIn profile  
+**LinkedIn:**https://www.linkedin.com/in/manobhiramgandharapu/
 **GitHub:** AbhiGandharapu
 
 If you're interested in AI, machine learning, intelligent systems, or building real-world applications, feel free to connect.
