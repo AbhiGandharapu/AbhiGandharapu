@@ -191,6 +191,4 @@ Open to **AI/ML internships, entry-level roles, and collaborative opportunities*
 
 ### Thanks for visiting! 👋
 
-**Building • Learning • Experimenting with AI**
-
 </div>
