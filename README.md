@@ -2,18 +2,20 @@
 
 # Gandharapu Manobhiram
 
-### AI/ML Enthusiast • B.Tech Artificial Intelligence • Amrita Vishwa Vidyapeetham '27
+### AI/ML Enthusiast • B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
 
 <p>
   <a href="mailto:manobhiramgandharapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/AbhiGandharapu">
-    <img src="https://img.shields.io/badge/GitHub-AbhiGandharapu-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AbhiGandharapu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-**Building intelligent systems for real-world problems across AI, Computer Vision, NLP, Generative AI, and Robotics.**
+### Building intelligent systems that solve real-world problems 🚀
+
+**Computer Vision • Machine Learning • NLP • Generative AI • Robotics**
 
 </div>
 
@@ -23,14 +25,14 @@
 
 I'm a **B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore**, graduating in **2027**.
 
-I enjoy building practical AI systems that combine **Machine Learning, Computer Vision, Natural Language Processing, Generative AI, and Robotics** to address real-world problems.
+I enjoy building practical intelligent systems that combine **Machine Learning, Computer Vision, NLP, Generative AI, and Robotics** to address real-world problems.
 
-My projects cover areas ranging from **classical computer vision and intelligent robotics** to **NLP, time-series forecasting, and AI-powered applications**.
+My work spans **classical computer vision, intelligent robotics, NLP-based privacy systems, time-series forecasting, and AI-powered applications**.
 
-- 🤖 Exploring **Generative AI, LLMs, RAG, and AI Agents**
-- 👁️ Interested in **Computer Vision and intelligent visual systems**
-- 🧠 Developing skills in **Machine Learning, Deep Learning, and NLP**
-- 🦾 Interested in **Robotics and intelligent systems**
+- 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
+- 👁️ Interested in **Computer Vision & intelligent visual systems**
+- 🧠 Developing skills in **Machine Learning, Deep Learning & NLP**
+- 🦾 Exploring **Robotics & intelligent systems**
 - 📍 Coimbatore, Tamil Nadu, India
 
 ---
@@ -39,29 +41,23 @@ My projects cover areas ranging from **classical computer vision and intelligent
 
 ### 🍃 [Leaf Water Stress Detection](https://github.com/AbhiGandharapu/leaf-water-stress-detection)
 
-A **classical computer vision system** for measuring leaf water stress through color, texture, and vein analysis without deep learning.
+Classical Computer Vision system for measuring **leaf water stress** using color, texture, and vein analysis without deep learning.
 
-The system applies image processing and feature extraction techniques to identify visual indicators associated with plant water stress.
-
-`Python` `OpenCV` `Image Processing` `GLCM` `LBP` `Frangi Vesselness`
+`Python` `OpenCV` `GLCM` `LBP` `Image Processing`
 
 ---
 
 ### 🤖 [Assistive Navigation Robot](https://github.com/AbhiGandharapu/Assistive-Navigation-Robot)
 
-A Raspberry Pi-based **assistive navigation robot** for obstacle detection, avoidance, and user alerts.
+Raspberry Pi-based assistive robot for **obstacle detection, navigation, avoidance, and user alerts** using ultrasonic sensing, servo scanning, PWM motor control, and Bluetooth communication.
 
-The system combines ultrasonic sensing, servo-based scanning, PWM motor control, and Bluetooth communication to support autonomous navigation and alert generation.
-
-`Python` `Raspberry Pi` `Robotics` `Ultrasonic Sensors` `Bluetooth` `PWM`
+`Python` `Raspberry Pi` `Robotics` `Sensors` `Bluetooth`
 
 ---
 
 ### 🔐 [PII Anonymizer NER](https://github.com/AbhiGandharapu/pii-anonymizer-ner)
 
-A hybrid NLP system for detecting and anonymizing **Personally Identifiable Information (PII)** from text.
-
-It combines neural Named Entity Recognition with rule-based pattern matching to identify sensitive information and generate anonymized text.
+Hybrid NLP pipeline for detecting and anonymizing **Personally Identifiable Information (PII)** using neural Named Entity Recognition and rule-based pattern matching.
 
 `Python` `PyTorch` `NLP` `NER` `Transformers` `Regex`
 
@@ -69,19 +65,15 @@ It combines neural Named Entity Recognition with rule-based pattern matching to 
 
 ### 💰 [Personal Finance Tracker](https://github.com/AbhiGandharapu/personal-finance-tracker)
 
-A personal finance analysis and **expense prediction system** using time-series analysis and machine learning.
+Machine learning and time-series based application for **personal finance analysis and expense prediction**, using historical spending patterns and forecasting techniques.
 
-The project analyzes historical spending patterns and applies forecasting approaches including **ARIMA and LSTM** to estimate future expenses.
-
-`Python` `Pandas` `NumPy` `ARIMA` `LSTM` `Time Series`
+`Python` `Pandas` `ARIMA` `LSTM` `Time Series`
 
 ---
 
 ### 🌦️ [Weather Analyser](https://github.com/AbhiGandharapu/weather-analyser)
 
-An AI-powered weather application combining real-time weather information with **contextual AI assistance**.
-
-It provides weather data, forecasts, visualizations, alerts, and AI-generated insights through an interactive web interface.
+AI-powered weather application providing **real-time weather information, forecasts, visualizations, alerts, and contextual AI-generated insights**.
 
 `JavaScript` `Gemini` `Groq` `APIs` `Data Visualization`
 
@@ -89,9 +81,7 @@ It provides weather data, forecasts, visualizations, alerts, and AI-generated in
 
 ### 🧘 [Mental Wellness](https://github.com/AbhiGandharapu/mental-wellness)
 
-An AI-powered student wellness companion focused on understanding **mood and stress patterns** through journal-based interaction.
-
-The application uses AI to analyze journal entries, identify patterns, provide supportive suggestions, and visualize mood trends.
+AI-powered student wellness companion that analyzes **journal-based mood and stress patterns** and provides supportive AI-driven suggestions.
 
 `JavaScript` `React` `Node.js` `Express` `Groq` `Llama`
 
@@ -99,11 +89,9 @@ The application uses AI to analyze journal entries, identify patterns, provide s
 
 ### 📊 [Census Data Analysis](https://github.com/AbhiGandharapu/census-data-analysis)
 
-An AI-assisted census survey platform for **socioeconomic data collection, analysis, and natural-language querying**.
+AI-assisted census platform for **socioeconomic data collection, analysis, and natural-language querying** of structured census information.
 
-The system combines a survey interface, database management, analytics, and AI-assisted interaction with structured census data.
-
-`Python` `FastAPI` `SQLite` `JavaScript` `AI` `SQL`
+`Python` `FastAPI` `SQLite` `JavaScript` `SQL`
 
 ---
 
@@ -119,7 +107,7 @@ The system combines a survey interface, database management, analytics, and AI-a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -131,15 +119,9 @@ The system combines a survey interface, database management, analytics, and AI-a
 ### 🧠 NLP / GenAI
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 `LLMs` `RAG` `AI Agents` `NER` `Transformers`
-
-### 📊 Data & Analytics
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 
@@ -154,7 +136,7 @@ The system combines a survey interface, database management, analytics, and AI-a
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
@@ -165,11 +147,31 @@ The system combines a survey interface, database management, analytics, and AI-a
 
 ---
 
-## 📈 GitHub Stats
+## 🔭 Currently Exploring
+
+- Generative AI & LLM applications
+- Retrieval-Augmented Generation
+- AI Agent architectures
+- Computer Vision
+- Deep Learning & Transformers
+- Intelligent Robotics
+
+---
+
+## 🎓 Education
+
+**Amrita Vishwa Vidyapeetham, Coimbatore**
+
+**B.Tech — Artificial Intelligence**  
+Semester 7 • Expected Graduation: **2027**
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github" alt="Manobhiram's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true" alt="Top Languages"/>
 
@@ -179,9 +181,7 @@ The system combines a survey interface, database management, analytics, and AI-a
 
 ## 🤝 Open to Opportunities
 
-Open to **AI/ML internships and entry-level opportunities** where I can learn, contribute, and work on real-world AI systems.
-
-Interested in **AI/ML, Computer Vision, Generative AI, NLP, RAG, AI Agents, and Robotics**.
+Open to **AI/ML internships, entry-level roles, and collaborative opportunities** where I can learn, contribute, and build real-world intelligent systems.
 
 📧 **manobhiramgandharapu@gmail.com**
 
@@ -191,5 +191,6 @@ Interested in **AI/ML, Computer Vision, Generative AI, NLP, RAG, AI Agents, and 
 
 ### Thanks for visiting! 👋
 
+**Building • Learning • Experimenting with AI**
 
 </div>
