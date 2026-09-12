@@ -156,21 +156,11 @@ Graduation: **2027**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true)
 
 ---
-
 ## 🤝 Open to Opportunities
 
-I am **actively open to recruitment and internship opportunities** in Artificial Intelligence and Machine Learning.
+Open to **AI/ML internships, graduate roles, and collaborative opportunities** in AI, Machine Learning, Computer Vision, Generative AI, NLP, and Robotics.
 
-I'm interested in opportunities involving:
-
-- AI/ML
-- Computer Vision
-- Generative AI & LLMs
-- NLP
-- RAG & AI Agents
-- Robotics
-- Real-world AI applications
-
+📧 **manobhiramgandharapu@gmail.com**
 I'm looking forward to working with teams where I can **learn, contribute, and build practical intelligent systems**.
 
 If you have an opportunity, project, or collaboration in these areas, feel free to reach out.
