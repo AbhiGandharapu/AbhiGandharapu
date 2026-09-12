@@ -1,121 +1,165 @@
-#                                                                                   Gandharapu Manobhiram
+# Gandharapu Manobhiram
 
-### AI/ML Undergraduate | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
+### AI/ML Enthusiast | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manobhiram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manobhiramgandharapu/)
-[![Email](https://img.shields.io/badge/Email-manobhiramgandharapu%40gmail.com-red?style=flat&logo=gmail)](mailto:manobhiramgandharapu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manobhiramgandharapu/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbhiGandharapu-black?style=flat&logo=github)](https://github.com/AbhiGandharapu)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manobhiramgandharapu@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram)](https://www.instagram.com/mannn.__.__/)
 
-Building intelligent systems that combine AI, machine learning, computer vision, and modern generative AI to solve practical real-world problems.
+> Building intelligent systems that connect AI with real-world problems in Computer Vision, NLP, Generative AI, Robotics, and Machine Learning.
 
 ---
 
 ## 🧠 About Me
 
-I'm a B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore, graduating in 2027.
+I'm a **B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore**, graduating in 2027.
 
-I enjoy building practical AI/ML applications across **computer vision, natural language processing, generative AI, LLMs, and intelligent systems**. My projects range from financial forecasting and NLP-based PII anonymization to AI-powered applications, weather intelligence, and robotics.
+I enjoy building practical AI systems that combine **machine learning, software engineering, computer vision, natural language processing, and intelligent hardware** to solve real-world problems.
 
-Currently focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Generative AI, LLM applications, RAG, AI Agents, and Robotics**.
+My projects span from classical computer vision and robotics to NLP, time-series forecasting, generative AI, and intelligent assistants.
 
-- 🎓 B.Tech Artificial Intelligence — Amrita Vishwa Vidyapeetham
-- 📚 Currently in Semester 7
-- 🤖 Interested in AI/ML, Computer Vision, GenAI, LLMs, RAG, AI Agents & Robotics
-- 💻 Building practical AI-driven applications and intelligent systems
-- 📍 Coimbatore, Tamil Nadu, India
-- 🚀 Open to AI/ML internships, projects, and software opportunities
+🔭 Currently exploring **Generative AI, LLMs, RAG, and AI Agents**
+
+👁️ Interested in **Computer Vision and intelligent visual systems**
+
+🤖 Building and experimenting with **Robotics and AI-driven systems**
+
+🧠 Developing skills in **Machine Learning, Deep Learning, and NLP**
+
+📍 Based in India | 🎓 Amrita Vishwa Vidyapeetham, Coimbatore
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 [Personal Finance Tracker](https://github.com/AbhiGandharapu/personal-finance-tracker)
+### 🍃 [Leaf Water Stress Detection](https://github.com/AbhiGandharapu/leaf-water-stress-detection)
 
-Time-series based personal finance analysis and expense prediction system.
+A **classical computer vision system** for measuring leaf water stress using color, texture, and vein analysis without deep learning.
 
-- 📊 Analyzes personal spending patterns and historical expenses
-- 📈 Applies time-series forecasting techniques for expense prediction
-- 🤖 Combines machine learning with financial data analysis
-- 🖥️ Includes frontend and backend components for an end-to-end application
+- Color-based vegetation analysis
+- Vein extraction and analysis
+- Texture analysis using GLCM and LBP
+- Frangi-based vein enhancement
+- Water stress measurement using image-based features
+- Classical Computer Vision approach without CNNs
 
-`Python` `Time Series Analysis` `Machine Learning` `LSTM` `ARIMA` `Pandas`
+`Python` `OpenCV` `Image Processing` `GLCM` `LBP` `Frangi Vesselness`
+
+---
+
+### 🤖 [Assistive Navigation Robot](https://github.com/AbhiGandharapu/Assistive-Navigation-Robot)
+
+A Raspberry Pi-based assistive navigation robot designed for obstacle detection, avoidance, and user alerts.
+
+- Ultrasonic sensor-based obstacle detection
+- Servo-controlled environment scanning
+- Automatic obstacle avoidance
+- PWM-based motor control
+- Bluetooth-based audio alerts
+- Raspberry Pi-based hardware control
+
+`Python` `Raspberry Pi` `Computer Vision` `Robotics` `Sensors` `Bluetooth`
 
 ---
 
 ### 🔐 [PII Anonymizer NER](https://github.com/AbhiGandharapu/pii-anonymizer-ner)
 
-Hybrid NLP system for detecting and anonymizing personally identifiable information.
+A hybrid NLP system for detecting and anonymizing **Personally Identifiable Information (PII)** from text.
 
-- 🧠 Uses neural NLP models for Named Entity Recognition
-- 🔎 Combines machine learning with rule-based pattern matching
-- 🛡️ Detects sensitive information such as structured PII
-- 🔄 Provides automated anonymization of detected entities
+- Neural Named Entity Recognition
+- Transformer-based NLP
+- Rule-based pattern matching
+- Detection of structured PII
+- Automated anonymization
+- Privacy-focused text processing
 
-`Python` `NLP` `NER` `PyTorch` `Transformers` `Regex`
+`Python` `PyTorch` `NLP` `NER` `Transformers` `Regex`
+
+---
+
+### 💰 [Personal Finance Tracker](https://github.com/AbhiGandharapu/personal-finance-tracker)
+
+A personal finance analysis and expense prediction system using **time-series analysis and machine learning**.
+
+- Expense tracking and analysis
+- Time-series forecasting
+- ARIMA-based forecasting
+- LSTM-based prediction
+- Spending pattern analysis
+- Financial data visualization
+
+`Python` `Pandas` `NumPy` `Time Series` `ARIMA` `LSTM` `Machine Learning`
+
+---
+
+### 🌦️ [Weather Analyser](https://github.com/AbhiGandharapu/weather-analyser)
+
+An AI-powered weather intelligence application that combines real-time weather information with intelligent contextual assistance.
+
+- Real-time weather information
+- Forecast visualization
+- AI-powered weather insights
+- Conversational assistance
+- Weather alerts
+- Interactive dashboard
+
+`JavaScript` `AI` `Gemini` `Groq` `APIs` `Data Visualization`
 
 ---
 
 ### 🧘 [Mental Wellness](https://github.com/AbhiGandharapu/mental-wellness)
 
-AI-powered student wellness companion designed to analyze mood and stress patterns.
+An AI-powered student wellness companion designed to help users understand mood and stress patterns through journal-based interaction.
 
-- 🧠 AI-based analysis of journal and user input
-- 📊 Mood tracking and trend visualization
-- 💬 Conversational AI support
-- 🎯 Designed around the needs of competitive-exam students
+- AI-based mood analysis
+- Stress trigger identification
+- Journal analysis
+- Personalized coping suggestions
+- Mood trend visualization
+- AI conversational companion
 
-`JavaScript` `React` `Node.js` `Express` `Groq` `Llama`
-
----
-
-### 🌤️ [Weather Analyser](https://github.com/AbhiGandharapu/weather-analyser)
-
-AI-powered weather intelligence application combining real-time weather information with intelligent recommendations.
-
-- 🌦️ Real-time weather information and forecasts
-- 🤖 AI-powered contextual weather insights
-- 📊 Weather visualization and analysis
-- 💬 Conversational interaction with weather information
-
-`JavaScript` `Gemini` `Groq` `HTML` `CSS`
+`JavaScript` `Node.js` `Express` `React` `Groq` `Llama`
 
 ---
 
-### 🏠 [Census Data Analysis](https://github.com/AbhiGandharapu/census-data-analysis)
+### 📊 [Census Data Analysis](https://github.com/AbhiGandharapu/census-data-analysis)
 
-AI-assisted socioeconomic survey and data analysis platform.
+An AI-assisted census survey platform for socioeconomic data collection, analysis, and natural-language interaction with structured data.
 
-- 📋 Digital census and socioeconomic data collection
-- 📊 Data analysis and administrative dashboard
-- 🗃️ Structured database management
-- 💬 Natural-language interaction with collected data
+- Digital census data collection
+- Socioeconomic data analysis
+- Administrative dashboard
+- Database-driven architecture
+- Natural-language data querying
+- AI-assisted information retrieval
 
-`Python` `FastAPI` `SQLite` `JavaScript` `AI`
+`Python` `FastAPI` `SQLite` `JavaScript` `AI` `SQL`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-`Python` `C++` `Java` `SQL` `JavaScript` `HTML` `CSS`
+### 💻 Programming
+`Python` `C++` `Java` `SQL` `HTML` `CSS` `JavaScript`
 
-### AI & Machine Learning
-`Machine Learning` `Deep Learning` `Scikit-learn` `TensorFlow` `PyTorch`
+### 🤖 Artificial Intelligence & Machine Learning
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI`
 
-### AI Specializations
-`NLP` `Named Entity Recognition` `Computer Vision` `Generative AI` `LLMs` `RAG` `AI Agents`
+### 🧠 AI Technologies
+`LLMs` `RAG` `AI Agents` `NER` `Transformers`
 
-### Computer Vision
-`OpenCV` `Image Processing`
+### 👁️ Computer Vision
+`OpenCV` `Image Processing` `Classical Computer Vision`
 
-### Data & Big Data
-`Pandas` `NumPy` `Hadoop` `Apache Spark`
+### 📊 Data & Machine Learning
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `TensorFlow` `PyTorch`
 
-### Development & Tools
-`Git` `GitHub` `Docker`
+### ⚙️ Big Data & Development
+`Hadoop` `Apache Spark` `Docker` `Git` `GitHub`
 
-### Cloud
-`Azure` `AWS`
+### ☁️ Cloud
+`Microsoft Azure` `AWS`
 
 ---
 
@@ -125,32 +169,68 @@ AI-assisted socioeconomic survey and data analysis platform.
 - 👁️ Computer Vision
 - ✨ Generative AI
 - 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧩 AI Agents & Intelligent Systems
-- 🤖 Robotics & Embedded AI
+- 🔗 Retrieval-Augmented Generation (RAG)
+- 🤝 AI Agents
+- 🗣️ Natural Language Processing
+- 🦾 Robotics & Intelligent Systems
 - 🔐 AI for Cybersecurity
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![Manobhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&count_private=true)
+I'm currently expanding my knowledge in:
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agent architectures
+- Computer Vision
+- Deep Learning
+- NLP and Transformer-based models
+- Intelligent robotics systems
+
+---
+
+## 🎓 Education
+
+**Amrita Vishwa Vidyapeetham, Coimbatore**
+
+**B.Tech — Artificial Intelligence**  
+Expected Graduation: **2027**  
+Current: **Semester 7**
+
+---
+
+## 📈 GitHub Stats
+
+![Manobhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manobhiramgandharapu/)
-- 📧 [Email](mailto:manobhiramgandharapu@gmail.com)
-- 🐙 [GitHub](https://github.com/AbhiGandharapu)
-- 📸 [Instagram](https://www.instagram.com/mannn.__.__/)
+I'm actively looking for opportunities to **learn, collaborate, contribute, and work on real-world AI/ML problems**.
+
+I'm particularly interested in:
+
+- AI/ML internships
+- Entry-level AI/ML opportunities
+- Computer Vision projects
+- Generative AI and LLM applications
+- AI Agent and RAG projects
+- Robotics and intelligent systems
+- Collaborative open-source projects
+
+If you're building something interesting in **AI, ML, Computer Vision, Generative AI, or Robotics**, I'd be happy to connect and explore opportunities to work together.
+
+📧 **Email:** [manobhiramgandharapu@gmail.com](mailto:manobhiramgandharapu@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/manobhiramgandharapu](https://www.linkedin.com/in/manobhiramgandharapu/)
+
+🐙 **GitHub:** [github.com/AbhiGandharapu](https://github.com/AbhiGandharapu)
 
 ---
 
-## 🚀 Open to Opportunities
-
-I am currently **open to AI/ML internships, software development opportunities, collaborative projects, and entry-level opportunities** where I can apply my skills, learn from experienced teams, and contribute to building practical intelligent systems.
-
-**If you're working on an interesting problem in AI, ML, Computer Vision, Generative AI, or intelligent systems, let's connect.**
+⭐ *Building, learning, and applying AI to real-world problems.*
