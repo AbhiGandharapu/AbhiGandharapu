@@ -1,28 +1,37 @@
+<div align="center">
+
 # Gandharapu Manobhiram
 
-### AI/ML Enthusiast | B.Tech Artificial Intelligence @ Amrita Vishwa Vidyapeetham '27
+### AI/ML Enthusiast • B.Tech Artificial Intelligence • Amrita Vishwa Vidyapeetham '27
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manobhiramgandharapu@gmail.com)
+<p>
+  <a href="mailto:manobhiramgandharapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AbhiGandharapu">
+    <img src="https://img.shields.io/badge/GitHub-AbhiGandharapu-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-> Building intelligent systems that connect AI with real-world problems in Computer Vision, NLP, Generative AI, Robotics, and Machine Learning.
+**Building intelligent systems for real-world problems across AI, Computer Vision, NLP, Generative AI, and Robotics.**
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore**, graduating in 2027.
+I'm a **B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore**, graduating in **2027**.
 
-I enjoy building practical AI systems that combine **Machine Learning, Computer Vision, Natural Language Processing, Generative AI, and Robotics** to solve real-world problems.
+I enjoy building practical AI systems that combine **Machine Learning, Computer Vision, Natural Language Processing, Generative AI, and Robotics** to address real-world problems.
 
-My work ranges from classical computer vision and intelligent robotics to NLP, time-series forecasting, and AI-powered applications.
+My projects cover areas ranging from **classical computer vision and intelligent robotics** to **NLP, time-series forecasting, and AI-powered applications**.
 
-🤖 Exploring **Generative AI, LLMs, RAG, and AI Agents**
-
-👁️ Interested in **Computer Vision and intelligent visual systems**
-
-🧠 Building skills in **Machine Learning, Deep Learning, and NLP**
-
-📍 Coimbatore, Tamil Nadu, India
+- 🤖 Exploring **Generative AI, LLMs, RAG, and AI Agents**
+- 👁️ Interested in **Computer Vision and intelligent visual systems**
+- 🧠 Developing skills in **Machine Learning, Deep Learning, and NLP**
+- 🦾 Interested in **Robotics and intelligent systems**
+- 📍 Coimbatore, Tamil Nadu, India
 
 ---
 
@@ -30,9 +39,9 @@ My work ranges from classical computer vision and intelligent robotics to NLP, t
 
 ### 🍃 [Leaf Water Stress Detection](https://github.com/AbhiGandharapu/leaf-water-stress-detection)
 
-A classical computer vision system for measuring **leaf water stress** through color, texture, and vein analysis without using deep learning.
+A **classical computer vision system** for measuring leaf water stress through color, texture, and vein analysis without deep learning.
 
-Uses image processing techniques including vegetation analysis, vein enhancement, texture analysis, and feature extraction to identify visual indicators of water stress.
+The system applies image processing and feature extraction techniques to identify visual indicators associated with plant water stress.
 
 `Python` `OpenCV` `Image Processing` `GLCM` `LBP` `Frangi Vesselness`
 
@@ -40,11 +49,11 @@ Uses image processing techniques including vegetation analysis, vein enhancement
 
 ### 🤖 [Assistive Navigation Robot](https://github.com/AbhiGandharapu/Assistive-Navigation-Robot)
 
-A Raspberry Pi-based **assistive navigation robot** designed for obstacle detection, avoidance, and user alerts.
+A Raspberry Pi-based **assistive navigation robot** for obstacle detection, avoidance, and user alerts.
 
-The system combines ultrasonic sensing, servo-based scanning, PWM motor control, and Bluetooth communication to navigate environments and provide alerts when obstacles are detected.
+The system combines ultrasonic sensing, servo-based scanning, PWM motor control, and Bluetooth communication to support autonomous navigation and alert generation.
 
-`Python` `Raspberry Pi` `Robotics` `Sensors` `Bluetooth` `PWM`
+`Python` `Raspberry Pi` `Robotics` `Ultrasonic Sensors` `Bluetooth` `PWM`
 
 ---
 
@@ -52,7 +61,7 @@ The system combines ultrasonic sensing, servo-based scanning, PWM motor control,
 
 A hybrid NLP system for detecting and anonymizing **Personally Identifiable Information (PII)** from text.
 
-The project combines neural Named Entity Recognition with rule-based pattern matching to identify sensitive information and replace it with anonymized representations.
+It combines neural Named Entity Recognition with rule-based pattern matching to identify sensitive information and generate anonymized text.
 
 `Python` `PyTorch` `NLP` `NER` `Transformers` `Regex`
 
@@ -62,27 +71,27 @@ The project combines neural Named Entity Recognition with rule-based pattern mat
 
 A personal finance analysis and **expense prediction system** using time-series analysis and machine learning.
 
-The project analyzes historical spending patterns and applies forecasting techniques such as ARIMA and LSTM to estimate future expenses.
+The project analyzes historical spending patterns and applies forecasting approaches including **ARIMA and LSTM** to estimate future expenses.
 
-`Python` `Pandas` `NumPy` `Time Series` `ARIMA` `LSTM`
+`Python` `Pandas` `NumPy` `ARIMA` `LSTM` `Time Series`
 
 ---
 
 ### 🌦️ [Weather Analyser](https://github.com/AbhiGandharapu/weather-analyser)
 
-An AI-powered weather application that combines real-time weather information with **intelligent contextual assistance**.
+An AI-powered weather application combining real-time weather information with **contextual AI assistance**.
 
 It provides weather data, forecasts, visualizations, alerts, and AI-generated insights through an interactive web interface.
 
-`JavaScript` `AI` `Gemini` `Groq` `APIs` `Data Visualization`
+`JavaScript` `Gemini` `Groq` `APIs` `Data Visualization`
 
 ---
 
 ### 🧘 [Mental Wellness](https://github.com/AbhiGandharapu/mental-wellness)
 
-An AI-powered student wellness companion designed to help users understand **mood and stress patterns** through journal-based interaction.
+An AI-powered student wellness companion focused on understanding **mood and stress patterns** through journal-based interaction.
 
-The application uses AI to analyze journal entries, identify mood patterns, provide supportive suggestions, and visualize changes over time.
+The application uses AI to analyze journal entries, identify patterns, provide supportive suggestions, and visualize mood trends.
 
 `JavaScript` `React` `Node.js` `Express` `Groq` `Llama`
 
@@ -92,7 +101,7 @@ The application uses AI to analyze journal entries, identify mood patterns, prov
 
 An AI-assisted census survey platform for **socioeconomic data collection, analysis, and natural-language querying**.
 
-The system combines a digital survey interface, database management, analytics, and AI-assisted interaction with structured census data.
+The system combines a survey interface, database management, analytics, and AI-assisted interaction with structured census data.
 
 `Python` `FastAPI` `SQLite` `JavaScript` `AI` `SQL`
 
@@ -100,39 +109,67 @@ The system combines a digital survey interface, database management, analytics, 
 
 ## 🛠️ Tech Stack
 
-**Languages** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+### 💻 Languages
 
-**AI/ML** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**NLP & GenAI** [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/) [![NLP](https://img.shields.io/badge/NLP-412991?style=flat)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
+### 🤖 AI / Machine Learning
 
-**Web & Backend** [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Data & Big Data** [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/) [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI`
 
-**Tools & Cloud** [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+### 🧠 NLP / GenAI
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+`LLMs` `RAG` `AI Agents` `NER` `Transformers`
+
+### 📊 Data & Analytics
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### ☁️ Big Data & Cloud
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Natural Language Processing
-- Robotics & Intelligent Systems
-- AI for Cybersecurity
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Generative AI` • `LLMs` • `RAG` • `AI Agents` • `NLP` • `Robotics` • `Cybersecurity`
 
 ---
 
 ## 📚 Currently Learning
 
 - Generative AI and LLM applications
-- RAG architectures
-- AI Agent systems
+- Retrieval-Augmented Generation (RAG)
+- AI Agent architectures
 - Computer Vision
 - Deep Learning
 - NLP and Transformer-based models
@@ -145,25 +182,37 @@ The system combines a digital survey interface, database management, analytics, 
 **Amrita Vishwa Vidyapeetham, Coimbatore**
 
 **B.Tech — Artificial Intelligence**  
-Graduation: **2027**  
+Expected Graduation: **2027**  
+Current: **Semester 7**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Manobhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhiGandharapu&show_icons=true&hide_border=true&rank_icon=github" alt="Manobhiram's GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGandharapu&layout=compact&hide_border=true" alt="Top Languages"/>
+
+</div>
 
 ---
+
 ## 🤝 Open to Opportunities
 
-Open to **AI/ML internships, graduate roles, and collaborative opportunities** in AI, Machine Learning, Computer Vision, Generative AI, NLP, and Robotics.
+Open to **AI/ML internships and entry-level opportunities** where I can learn, contribute, and work on real-world AI systems.
 
-I'm looking forward to working with teams where I can **learn, contribute, and build practical intelligent systems**.
-
-If you have an opportunity, project, or collaboration in these areas, feel free to reach out.
+Interested in **AI/ML, Computer Vision, Generative AI, NLP, RAG, AI Agents, and Robotics**.
 
 📧 **manobhiramgandharapu@gmail.com**
 
 ---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+*Building • Learning • Experimenting with AI*
+
+</div>
