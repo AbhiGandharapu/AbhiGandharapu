@@ -163,7 +163,7 @@ AI-assisted census platform for **socioeconomic data collection, analysis, and n
 **Amrita Vishwa Vidyapeetham, Coimbatore**
 
 **B.Tech — Artificial Intelligence**  
-Semester 7 • Expected Graduation: **2027**
+  Graduation: **2027**
 
 ---
 
